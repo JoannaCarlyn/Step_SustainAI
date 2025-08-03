@@ -1,51 +1,6 @@
-prompt_id,prompt_text,token_count,readability_score,hardware_type,energy_consumption
-1,Prompt example 1,57,62.37,T4,7.45
-2,Prompt example 2,63,50.68,T4,6.1
-3,Prompt example 3,92,68.79,RTX 3090,12.17
-4,Prompt example 4,72,84.13,T4,7.33
-5,Prompt example 5,57,64.99,A100,7.82
-6,Prompt example 6,64,65.65,T4,7.36
-7,Prompt example 7,46,59.58,RTX 3090,4.71
-8,Prompt example 8,42,61.08,T4,5.65
-9,Prompt example 9,80,70.45,T4,9.79
-10,Prompt example 10,32,69.3,A100,2.92
-11,Prompt example 11,65,75.96,A100,8.04
-12,Prompt example 12,100,73.08,T4,9.81
-13,Prompt example 13,84,71.44,RTX 3090,7.22
-14,Prompt example 14,91,81.85,T4,12.71
-15,Prompt example 15,35,77.46,T4,3.06
-16,Prompt example 16,44,57.91,RTX 3090,6.59
-17,Prompt example 17,68,56.68,RTX 3090,6.83
-18,Prompt example 18,19,57.78,A100,1.79
-19,Prompt example 19,39,65.59,A100,4.99
-20,Prompt example 20,22,56.34,A100,2.0
-21,Prompt example 21,34,78.03,T4,4.72
-22,Prompt example 22,15,83.21,T4,2.09
-23,Prompt example 23,65,87.18,RTX 3090,8.63
-24,Prompt example 24,14,84.93,T4,2.05
-25,Prompt example 25,62,75.4,T4,7.99
-26,Prompt example 26,56,76.99,RTX 3090,6.07
-27,Prompt example 27,52,85.26,RTX 3090,7.22
-28,Prompt example 28,10,51.01,T4,1.29
-29,Prompt example 29,64,82.48,A100,8.63
-30,Prompt example 30,56,83.61,T4,6.24
-31,Prompt example 31,59,63.81,RTX 3090,8.28
-32,Prompt example 32,31,74.49,A100,3.27
-33,Prompt example 33,94,59.45,RTX 3090,9.64
-34,Prompt example 34,70,81.44,A100,7.51
-35,Prompt example 35,60,63.39,RTX 3090,7.34
-36,Prompt example 36,80,62.8,A100,11.2
-37,Prompt example 37,28,87.89,A100,3.25
-38,Prompt example 38,73,61.58,T4,9.1
-39,Prompt example 39,56,52.51,T4,7.57
-40,Prompt example 40,98,86.81,RTX 3090,13.5
-41,Prompt example 41,56,78.93,T4,5.07
-42,Prompt example 42,99,71.32,T4,12.7
-43,Prompt example 43,81,87.95,T4,11.49
-44,Prompt example 44,68,69.27,RTX 3090,5.86
-45,Prompt example 45,21,85.59,RTX 3090,2.48
-46,Prompt example 46,56,66.46,A100,7.64
-47,Prompt example 47,46,50.55,RTX 3090,3.81
-48,Prompt example 48,65,82.55,A100,8.2
-49,Prompt example 49,11,88.8,RTX 3090,1.63
-50,Prompt example 50,100,58.04,RTX 3090,11.01
+num_layers,training_hours,flops_per_hour,energy_consumption
+2,1,10,0.5
+4,2,20,1.3
+6,3,40,2.8
+8,4,60,4.5
+10,5,90,6.9
